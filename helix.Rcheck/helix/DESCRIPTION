@@ -1,0 +1,10 @@
+Package: helix
+Type: Package
+Title: Analyse von Helix-Daten
+Version: 0.1
+Date: 2015-10-09
+Author: Harald Fiedler
+Maintainer: Cavorit <info@cavorit.de>
+Description: Analyse und Funktionalitaeten f<c3><bc>r die Helix
+License: MIT
+Built: R 3.2.2; ; 2015-10-09 10:53:24 UTC; unix
