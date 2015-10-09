@@ -1,0 +1,17 @@
+{
+    "contents" : "#'\n#' @author Harald Fiedler\n#' @description Druckt eine Nachricht aus. \n#' @details Druckt eine Begrüßungs-Message aus.\n#' @title introMessage\nintroMessage <- function(){\n  message(\"Paket helix Version 0.1\")\n}\n",
+    "created" : 1444382410396.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1457642991",
+    "id" : "90F8CFB5",
+    "lastKnownWriteTime" : 1444385359,
+    "path" : "~/Desktop/Helix/helix/R/introMessage.R",
+    "project_path" : "R/introMessage.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_source"
+}
