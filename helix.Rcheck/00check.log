@@ -49,18 +49,18 @@ Subdirectory ‘data’ contains no data sets.
 * checking S3 generic/method consistency ... OK
 * checking replacement functions ... OK
 * checking foreign function calls ... OK
-* checking R code for possible problems ... OK
+* checking R code for possible problems ... NOTE
+staninePlot: no visible binding for global variable ‘x’
+staninePlot: warning in rgb(c_ramp(i/9), max = 255): partielle
+  Übereinstimmung des Argumentes 'max' mit 'maxColorValue'
+staninePlotDichotom: no visible binding for global variable ‘x’
 * checking Rd files ... WARNING
-introMessage.Rd: non-ASCII input and no declared encoding
-problem found in ‘introMessage.Rd’
+staninePlot.Rd: non-ASCII input and no declared encoding
+staninePlotDichotom.Rd: non-ASCII input and no declared encoding
+problems found in ‘staninePlot.Rd’, ‘staninePlotDichotom.Rd’
 * checking Rd metadata ... OK
 * checking Rd cross-references ... OK
-* checking for missing documentation entries ... WARNING
-Undocumented code objects:
-  ‘Foo’
-All user-level objects in a package should have documentation entries.
-See chapter ‘Writing R documentation files’ in the ‘Writing R
-Extensions’ manual.
+* checking for missing documentation entries ... OK
 * checking for code/documentation mismatches ... OK
 * checking Rd \usage sections ... OK
 * checking Rd contents ... OK
@@ -74,4 +74,4 @@ Please use e.g. ‘inst/extdata’ for non-R data files
 * checking examples ... NONE
 * checking PDF version of manual ... OK
 * DONE
-Status: 5 WARNINGs, 2 NOTEs
+Status: 4 WARNINGs, 3 NOTEs
