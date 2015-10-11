@@ -1,8 +1,8 @@
 Package: helix
 Type: Package
 Title: Analyse von Helix-Daten
-Version: 0.2
-Date: 2015-10-11
+Version: 0.1
+Date: 2015-10-09
 Author: Harald Fiedler
 Maintainer: Cavorit <info@cavorit.de>
 Description: Analyse und Funktionalitaeten für die Helix

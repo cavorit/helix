@@ -2,6 +2,7 @@
 Warnung in .write_description(db, file.path(outDir, "DESCRIPTION"))
   Unbekannte Kodierung mit nicht-ASCII Daten: konvertiere nach ASCII
 ** R
+** data
 ** preparing package for lazy loading
 ** help
 *** installing help indices

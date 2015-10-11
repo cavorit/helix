@@ -86,7 +86,7 @@ xlive/2015/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2015
 /texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2015/texmf-dis
 t/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/ty
 pe1/urw/times/utmri8a.pfb>
-Output written on Rd2.pdf (2 pages, 55919 bytes).
+Output written on Rd2.pdf (2 pages, 55775 bytes).
 Transcript written on Rd2.log.
 This is makeindex, version 2.15 [TeX Live 2015] (kpathsea + Thai support).
 Scanning input file Rd2.idx....done (4 entries accepted, 0 rejected).
@@ -187,7 +187,7 @@ live/2015/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2015/
 texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2015/texmf-dist
 /fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/typ
 e1/urw/times/utmri8a.pfb>
-Output written on Rd2.pdf (3 pages, 64383 bytes).
+Output written on Rd2.pdf (3 pages, 64245 bytes).
 Transcript written on Rd2.log.
 This is makeindex, version 2.15 [TeX Live 2015] (kpathsea + Thai support).
 Scanning input file Rd2.idx....done (4 entries accepted, 0 rejected).
@@ -283,8 +283,8 @@ live/2015/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2015/
 texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2015/texmf-dist
 /fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/typ
 e1/urw/times/utmri8a.pfb>
-Output written on Rd2.pdf (3 pages, 65025 bytes).
+Output written on Rd2.pdf (3 pages, 64881 bytes).
 Transcript written on Rd2.log.
 Saving output to 'helix-manual.pdf' ...
 Done
-You may want to clean up by 'rm -rf /var/folders/2v/02lf0mjn2v70y10r5bp0kqyr0000gn/T//RtmpXhUBAC/Rd2pdfea17d9d5b40'
+You may want to clean up by 'rm -rf /var/folders/2v/02lf0mjn2v70y10r5bp0kqyr0000gn/T//Rtmpx3Az0K/Rd2pdf6b625ef0a89'
