@@ -1,0 +1,82 @@
+\nonstopmode{}
+\documentclass[a4paper]{book}
+\usepackage[times,inconsolata,hyper]{Rd}
+\usepackage{makeidx}
+\usepackage[utf8,latin1]{inputenc}
+% \usepackage{graphicx} % @USE GRAPHICX@
+\makeindex{}
+\begin{document}
+\chapter*{}
+\begin{center}
+{\textbf{\huge Package `helix'}}
+\par\bigskip{\large \today}
+\end{center}
+\begin{description}
+\raggedright{}
+\item[Type]\AsIs{Package}
+\item[Title]\AsIs{Analyse von Helix-Daten}
+\item[Version]\AsIs{0.2}
+\item[Date]\AsIs{2015-10-11}
+\item[Author]\AsIs{Harald Fiedler}
+\item[Maintainer]\AsIs{Cavorit }\email{info@cavorit.de}\AsIs{}
+\item[Description]\AsIs{Analyse und Funktionalitaeten f<c3><bc>r die Helix}
+\item[License]\AsIs{MIT}
+\end{description}
+\Rdcontents{\R{} topics documented:}
+\inputencoding{utf8}
+\HeaderA{helix-package}{helix}{helix.Rdash.package}
+\keyword{package}{helix-package}
+%
+\begin{Author}\relax
+Harald Fiedler - Cavorit Consulting GmbH
+\end{Author}
+\inputencoding{utf8}
+\HeaderA{staninePlot}{staninePlot}{staninePlot}
+%
+\begin{Description}\relax
+Zeichnet stanine-Plot
+\end{Description}
+%
+\begin{Usage}
+\begin{verbatim}
+staninePlot()
+\end{verbatim}
+\end{Usage}
+%
+\begin{Details}\relax
+Zeichnet eine Glockenkurve mit Stanine-Klassen in Cavorit-Farben
+\end{Details}
+%
+\begin{Author}\relax
+HF nach Felix Schönbrodt
+\end{Author}
+\inputencoding{utf8}
+\HeaderA{staninePlotDichotom}{staninePlotDichotom}{staninePlotDichotom}
+%
+\begin{Description}\relax
+Zeichnet Gaussglocke mit linker und rechter Farbe
+\end{Description}
+%
+\begin{Usage}
+\begin{verbatim}
+staninePlotDichotom(Prozentrang, AlphaKanal = 1)
+\end{verbatim}
+\end{Usage}
+%
+\begin{Arguments}
+\begin{ldescription}
+\item[\code{Prozentrang}] Der Prozentrang, der abgezeichnet werden soll.
+
+\item[\code{AlphaKanal}] Eine Zahl zwischen 0 und 1 für den Alphakanal
+\end{ldescription}
+\end{Arguments}
+%
+\begin{Details}\relax
+Zeichnet eine Glockenkurve. Links des Prozentrangs wird alles in einer Farbe eingefäbrt. Rechts davon in einer anderen Farbe.
+\end{Details}
+%
+\begin{Author}\relax
+HF nach Felix Schönbrodt
+\end{Author}
+\printindex{}
+\end{document}

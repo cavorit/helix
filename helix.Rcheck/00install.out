@@ -1,10 +1,12 @@
 * installing *source* package ‘helix’ ...
-Warnung in .write_description(db, file.path(outDir, "DESCRIPTION"))
+Warnung in .write_description(db, file.path(outDir, "DESCRIPTION")) :
   Unbekannte Kodierung mit nicht-ASCII Daten: konvertiere nach ASCII
 ** R
 ** data
 ** preparing package for lazy loading
 ** help
+Warnung: /Users/hf/Desktop/helix/helix/man/helix-package.Rd:5: unexpected UNKNOWN '\packageDESCRIPTION'
+Warnung: /Users/hf/Desktop/helix/helix/man/helix-package.Rd:5: All text must be in a section
 *** installing help indices
 ** building package indices
 ** testing if installed package can be loaded
